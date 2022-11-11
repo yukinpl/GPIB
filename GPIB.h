@@ -5,7 +5,7 @@
 #include "compile.option.gpib.h"
 #include "visa.h"
 
-#define WM_GPIB_RECEIVED ( WM_USER + 5 )
+#define WM_GPIB_RECEIVED ( WM_USER + 10 )
 
 class GPIB
 {
